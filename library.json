@@ -3,13 +3,11 @@
   "version": "1.1.9",
   "description": "A library for controlling Midea home appliances using the UART protocol.",
   "keywords": "midea, iot, air-conditioner, uart, serial, control, home-automation, electrolux, qlima, comfee, artel",
-  "repository":
-  {
+  "repository": {
     "type": "git",
     "url": "https://github.com/deezid/MideaUART.git"
   },
-  "authors":
-  [
+  "authors": [
     {
       "name": "Sergey Dudanov",
       "email": "sergey.dudanov@gmail.com",
@@ -17,8 +15,7 @@
     }
   ],
   "license": "MIT",
-  "dependencies": {
-  },
+  "dependencies": {},
   "frameworks": "arduino",
   "platforms": ["espressif8266", "espressif32"]
 }
